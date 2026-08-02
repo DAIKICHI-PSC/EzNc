@@ -1,6 +1,6 @@
 # EzNc
 NCプログラム送受信ソフトウェア  
-  
+EzNcServer←→EzNcClient←→CNC
 ---
   
 pyserial>=3.5  
